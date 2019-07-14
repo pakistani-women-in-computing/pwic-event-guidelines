@@ -1,6 +1,6 @@
 # PWiC Speaker Guidelines
 
-In addition to accepting the [Code of Conduct](https://github.com/pakistani-women-in-computing/pwic-documents/blob/master/pwic-code-of-conduct.md) for all attendees, speakers must agree to our rules for speaking. 
+In addition to accepting the [Participant Code of Conduct](https://github.com/pakistani-women-in-computing/pwic-documents/blob/master/pwic-participant-guidelines.md) for all attendees, speakers must agree to our rules for speaking. 
 Failure to follow these rules will result in disqualification for speaking at PWiC events.
 
 **Views expressed by speakers at PWiC events are their own and do not represent Pakistani Women in Computing (PWiC).**
