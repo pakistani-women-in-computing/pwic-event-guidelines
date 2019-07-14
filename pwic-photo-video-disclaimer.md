@@ -1,0 +1,2 @@
+# PWiC Photo/Video Disclaimer
+PWiC will be taking photos/videos at this event. These images/videos will be used by PWiC to share news about the event, and to publicise our next events. Images/videos may be used in press releases, printed publicity and published on PwiC’s Social media and blog. They will be stored securely. If you would prefer for you or your child not to be photographed/videoed, please email info@pwic.org. If you would like to see your images/videos, or would like us to delete them, please email the group on info@pwic.org at any time. 
